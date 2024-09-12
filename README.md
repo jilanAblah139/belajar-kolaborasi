@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-disini saya belajar ssuash changes
+disini saya belajar squash changes
